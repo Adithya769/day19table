@@ -1,0 +1,33 @@
+
+.table{
+    text-transform: capitalize;
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+    margin: auto;
+    width: 50%;
+    border-collapse: collapse;
+}
+.table .table_header{
+    padding: 10px;
+    color: rgb(10, 10, 10);
+    background-color: wheat;
+    
+}
+.table .table_body{
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+
+}
+.table .table_body td{
+    padding: 10px;
+}
+.title{
+    color: whitesmoke;
+}
+.butt{
+    padding: 10px;
+    margin: 5px;
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    /* text-align: center; */
+    margin: auto;
+    width: 750px;
+
+  }
+  
+  .del{
+      background-color: bisque;
+  }
+  .btn-submit{
+      background-color: aquamarine;
+  }
